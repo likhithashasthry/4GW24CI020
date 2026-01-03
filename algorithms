@@ -1,0 +1,115 @@
+1️⃣ Basic Array Concepts (Must Know)
+
+Before algorithms, you should be comfortable with:
+Traversing an array  ✅
+Insertion & deletion ✅
+Finding max / min
+Reverse an array
+Frequency count
+ 
+📌 These are asked in coding rounds & MCQs
+
+2️⃣ Searching Algorithms (Very Important)
+🔹 Linear Search  ✅
+Used when array is unsorted
+Time: O(n)
+🔹 Binary Search  ✅
+Only for sorted arrays
+Time: O(log n)
+Variants asked:
+First & last occurrence
+Count of an element
+Search in rotated sorted array
+
+3️⃣ Sorting Algorithms (Placement Favorite)
+🔹 Bubble Sort (basic understanding)
+🔹 Selection Sort   ✅
+🔹 Insertion Sort
+📌 Understand logic + time complexity
+🔹 Merge Sort
+Divide & Conquer
+Used in large data problems
+🔹 Quick Sort
+Very common in interviews
+
+4️⃣ Two Pointer Technique ⭐ (VERY IMPORTANT)
+
+Used when working with:
+Sorted arrays
+Pairs / subarrays
+Common problems:
+Pair with given sum
+Remove duplicates
+Reverse array
+Move zeros to end
+Merge two sorted arrays
+
+5️⃣ Sliding Window Technique ⭐⭐
+
+Used for subarray problems
+Problems include:
+Maximum sum subarray of size k
+Longest subarray with sum k
+Count subarrays satisfying condition
+📌 Frequently asked in product companies
+
+6️⃣ Prefix Sum Technique
+Used to optimize repeated sum calculations
+
+Problems:
+Range sum queries
+Subarray sum equals k
+Equilibrium index
+
+7️⃣ Kadane’s Algorithm ⭐
+
+Used for:
+Maximum subarray sum
+Time: O(n)
+📌 Very frequently asked
+
+8️⃣ Hashing with Arrays
+
+Use:
+Frequency array
+HashMap
+
+Problems:
+Find duplicates
+Missing number
+Majority element
+Two sum
+
+9️⃣ Array Rearrangement Problems
+
+Examples:
+Rotate array (left/right)
+Rearrange positive & negative numbers
+Alternate elements
+Sort 0s, 1s, and 2s (Dutch National Flag Algorithm ⭐)
+
+🔟 Advanced Array Problems (For Top Companies)
+Trapping Rain Water
+Container With Most Water
+Maximum product subarray
+Stock buy & sell
+Subarray with XOR
+
+📌 Interview Must-Do Problems (Arrays)
+
+You must practice:
+Two Sum
+Kadane’s Algorithm
+Rotate array
+Binary search variations
+Sort 0,1,2
+Maximum & minimum in array
+Merge sorted arrays
+
+🧠 Suggested Learning Order
+Basics → Searching
+Sorting
+Two pointers
+Sliding window
+Prefix sum
+Advanced problems
