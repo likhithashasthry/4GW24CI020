@@ -48,4 +48,4 @@ The project demonstrates how fundamental DSA concepts like stacks and recursion 
 
 ---
 
-Overall, this project showcases effective usage of data structures and algorithms to implement a reliable and efficient desktop organization utility.
+Overall, this project showcases effective usage of ***data structures and algorithms*** to implement a reliable and efficient desktop organization utility.
