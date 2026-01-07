@@ -8,6 +8,9 @@ import java.util.Scanner;
 import java.util.Stack;
 
 public class DesktopOrganizer {
+    
+        
+    
 
     static final String DESKTOP_PATH = "C:\\Users\\LIKITHA\\Desktop";
     static final String ORGANIZER_PATH = "D:\\Desktop_Organizer";
@@ -143,3 +146,4 @@ class MoveRecord {
         this.destination = destination;
     }
 }
+
