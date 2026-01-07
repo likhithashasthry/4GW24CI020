@@ -56,4 +56,4 @@ It operates in user space while utilizing services provided by the Operating Sys
 
 ---
 
-Overall, the Desktop Organizer project demonstrates practical application of Operating System concepts such as file management, directory handling, metadata usage, resource management, and undo mechanisms.
+Overall, the Desktop Organizer project demonstrates practical application of ***Operating System*** concepts such as file management, directory handling, metadata usage, resource management, and undo mechanisms.
